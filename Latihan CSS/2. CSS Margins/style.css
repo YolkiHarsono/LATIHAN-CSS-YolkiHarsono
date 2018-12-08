@@ -1,0 +1,7 @@
+#border{
+	border-style: dotted;
+}
+#margin{
+	border-style: solid;
+	margin: 90px;
+}

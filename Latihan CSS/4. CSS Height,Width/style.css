@@ -1,0 +1,12 @@
+#tinggi{
+	border-style: dashed;
+	margin: 20px;
+	padding: 15px;
+	height: 100px;
+}
+#lebar{
+	border-style: dashed;
+	margin: 20px;
+	padding: 15px;
+	width: 500px;
+}

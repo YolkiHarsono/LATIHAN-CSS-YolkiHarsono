@@ -1,0 +1,19 @@
+p{
+	background-color: #0099ff;
+	font-weight: 700;
+}
+.transparent{
+	opacity: 0;
+}
+.T30{
+	opacity: 0.3;
+}
+.T70{
+	opacity: 0.7;
+}
+.normal{
+	opacity:1;
+}
+img:hover{
+	opacity: 0.3;
+}

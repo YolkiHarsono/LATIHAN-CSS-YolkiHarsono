@@ -1,0 +1,23 @@
+#rata-kanan{
+	text-align: right;
+	color: blue;
+	text-decoration: underline;
+}
+#rata-kiri{
+	text-align: left;
+	text-transform: capitalize;
+	text-decoration: overline;
+}
+#rata-tengah{
+	text-align: center;
+	text-transform: lowercase;
+	text-decoration: line-through;
+	word-spacing: 10px;
+}
+#rata-kanankiri{
+	text-align: justify;
+	text-transform: uppercase;
+	text-indent: 30px;
+	line-height: 30px;
+	letter-spacing: 5px;
+}

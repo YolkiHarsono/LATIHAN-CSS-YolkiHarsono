@@ -1,0 +1,13 @@
+}
+#hari{
+	list-style-type: square;
+}
+#bulan{
+	list-style-type: circle;
+}
+#tahun{
+	list-style-type: upper-alpha;
+}
+#tanggal{
+	list-style-type: upper-roman;
+}

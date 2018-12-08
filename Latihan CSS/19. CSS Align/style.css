@@ -1,0 +1,32 @@
+.left1{
+	text-align: left;
+	color: red;
+}
+.left{
+	text-align: left;
+	width: 500px;
+}
+.right1{
+	text-align: right;
+	color: red;
+}
+.right{
+	text-align: right;
+	padding-left: 850px;
+}
+.center1{
+	text-align: center;
+	color: red;
+}
+.center{
+	text-align: center;
+	padding-left:  425px;
+	padding-right: 425px;
+}
+.justify1{
+	text-align: justify;
+	color: red;
+}
+.justify{
+	text-align: justify;
+}

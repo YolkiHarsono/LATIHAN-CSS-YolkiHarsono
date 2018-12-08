@@ -1,0 +1,24 @@
+#tulisan1:hover{
+	font-size: 20pt;
+	color: red;
+	background: yellow;
+	text-decoration: none;
+}
+#tulisan2:hover{
+	font-size: 20pt;
+	color: blue;
+	background: black;
+	text-decoration: none;
+}
+#tulisan3:hover{
+	font-size: 20pt;
+	color: green;
+	background: red;
+	text-decoration: none;
+}
+#tulisan4:hover{
+	font-size: 20pt;
+	color: yellow;
+	background: blue;
+	text-decoration: none;
+}

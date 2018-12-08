@@ -1,0 +1,17 @@
+#inline{
+	display: inline;
+	background-color: yellow;
+	width: 400px;
+	height:100px;
+}
+#block{
+	display: block;
+	background-color: red;
+	height: 50px;
+}
+#inline-block{
+	display: inline-block;
+	background-color: aqua;
+	width: 400px;
+	height: 40px;
+}

@@ -1,0 +1,20 @@
+a[href]{
+  text-decoration:none;             
+  font-size:24px;
+  color:blue;
+}             
+a[href^="http://"]{
+  font-weight: bold;
+}                
+a[href$=".pdf"]{
+  color:brown;
+}               
+a[title~="link"]{
+  color:green;
+}                          
+a[title|="situs"]{
+  color:red;
+}                         
+a[href*="halaman"]{
+  font-style: italic;
+}

@@ -1,0 +1,28 @@
+#border{
+	border-style: solid;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 900px;
+}
+#margin{
+	border-style: dotted;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 820px;
+}
+#padding{
+	border-style: double;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 740px;
+}
+#hw{
+	border-style: dashed;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 660px;
+}

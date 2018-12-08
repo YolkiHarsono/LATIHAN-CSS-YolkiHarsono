@@ -1,0 +1,64 @@
+.static{
+    width:100px; 
+    height:50px; 
+    background:blue; 
+    margin:10px; 
+}
+.relative{
+	width:100px;
+    height:50px;
+    background:red;
+    position:relative;
+}
+.relative1{
+	top:30px; 
+    left:200px; 
+	width:100px;
+    height:50px;
+    background:red;
+    position:relative;
+}
+.absolute1{
+    position:absolute;
+    width:100px;
+    height:50px;
+    background:green;
+}
+.relative2{
+    position:relative;
+    width:800px;
+    height:200px;
+    background:red;
+    left: 200px;
+}
+.absolute2{
+    position:absolute;
+    width:70px;
+    height:50px;
+    background:green;
+    right:50px;
+}
+.fixed{
+    position:fixed;
+    width:200px;
+    height:50px;
+    background:#ffcc00;
+    top:50px;
+    left:200px;
+}  
+.fixed1{
+	position:fixed;
+    width:200px;
+    height:50px;
+    background:#ffcc00;
+    top:50px;
+    left:500px;
+} 
+.fixed2{
+	position:fixed;
+    width:200px;
+    height:50px;
+    background:#ffcc00;
+    top:50px;
+    left:800px;
+}

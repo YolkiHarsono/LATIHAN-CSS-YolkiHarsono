@@ -1,0 +1,32 @@
+#border{
+	border-style: solid;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 900px;
+	background-color: #ff2000;
+}
+#margin{
+	border-style: dotted;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 820px;
+	background-color: #ff5000;
+}
+#outline{
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 740px;
+	outline: 20px dashed green;
+	background-color: white;
+}
+#hw{
+	border-style: dashed;
+	margin: 20px;
+	padding: 15px;
+	height: 100%;
+	width: 660px;
+	background-color: #ffb000;
+}

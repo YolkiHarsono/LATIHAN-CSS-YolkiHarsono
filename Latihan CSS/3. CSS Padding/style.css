@@ -1,0 +1,8 @@
+#border{
+	border-style: dotted;
+}
+#padding{
+	border-style: double;
+	margin: 20px;
+	padding: 30px;
+}
